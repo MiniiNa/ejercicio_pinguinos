@@ -35,11 +35,11 @@ Para el análisis, nos centramos en cuatro variables críticas:
 
 ### 🔬 Clasificación de Especies
 
-| Especie | Isla Principal | Pico (Promedio) | Notas |
+| Especie | Isla nacimiento | Pico (promedio) | Notas |
 | :--- | :--- | :--- | :--- |
-| **Adélie** | Torgersen | Corto / Grueso | Muy territoriales |
-| **Chinstrap** | Dream | Largo / Delgado | "Barbijo" distintivo |
-| **Gentoo** | Biscoe | Largo / Grueso | Los de mayor tamaño |
+| **Adélie** | Dream | Corto / Grueso | Muy territoriales |
+| **Chinstrap** | Dream | Largo / Grueso | "Barbijo" distintivo |
+| **Gentoo** | Biscoe | Largo / Estrecho | Los de mayor tamaño |
 
 ---
 
